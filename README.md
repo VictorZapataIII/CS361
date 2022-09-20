@@ -1,2 +1,2 @@
 # cs361
-Code for cs361
+Pace University Code for CS361 class
